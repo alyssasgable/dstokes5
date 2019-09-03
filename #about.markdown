@@ -6,6 +6,13 @@ My Hobbies:
 - PLAYING BASKETBALL
 - PLAYING 8BALL
 - PLAYING SOCCER
+Slider Images:
+- "/uploads/dylan1.png"
+- "/uploads/dylan2.png"
+- "/uploads/dylan3.png"
+- "/uploads/dylan4.png"
+Accomplishments:
+  icofont-: I WON TEAM MVP AT THE MIKE GETMAN UAB SOCCER CAMP
 ---
 
 Hey! My name is Dylan Stokes. I’m 14 and I live in Montgomery, Alabama. I attend Saint James School and I am currently in 9th grade. Also, I play club soccer for the Capital City Streaks based out of Montgomery. Before playing for the Streaks, I played for FC Torjager and FC Montgomery. 
