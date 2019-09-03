@@ -1,0 +1,28 @@
+---
+label: home
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: nameTitle
+  label: nameTitle
+- type: text
+  name: quote
+  label: quote
+- type: textarea
+  name: aboutDescription
+  label: aboutDescription
+- type: text
+  name: goals
+  label: goals
+- type: textarea
+  name: purpose
+  label: purpose
+- type: text
+  name: videoLink
+  label: videoLink
